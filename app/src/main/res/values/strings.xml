@@ -1,11 +1,9 @@
 <resources>
-    <string name="app_name">ProjectExample</string>
-
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
+    <string name="app_name">Project Example</string>
+    <string name="title">Tra Cứu Điểm Thi ĐH\nCủa Các Trường ĐH Thuộc ĐHQG TP.HCM</string>
+    <string name="title_section1">Xem Theo Trường</string>
+    <string name="title_section2">Xem Theo Ngành</string>
     <string name="title_section3">Section 3</string>
-
-    <string name="hello_world">Hello world!</string>
 
     <string name="action_settings">Settings</string>
 </resources>
